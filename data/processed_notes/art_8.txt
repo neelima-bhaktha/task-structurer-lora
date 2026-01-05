@@ -1,0 +1,5 @@
+A loss function defines how well a machine learning model’s predictions align with the true values. It provides the signal that guides learning during optimisation.
+
+Different tasks require different loss functions. For example, mean squared error is commonly used for regression problems, while cross-entropy loss is preferred for classification tasks.
+
+Choosing an appropriate loss function is critical, as it directly influences training dynamics and final model behaviour.

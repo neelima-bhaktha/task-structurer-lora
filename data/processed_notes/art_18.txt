@@ -1,0 +1,5 @@
+Underfitting occurs when a model is too simple to capture underlying patterns in the data. Such models perform poorly on both training and test datasets.
+
+High bias is a common cause of underfitting. Increasing model complexity or improving feature representation can help address it.
+
+Identifying underfitting early prevents wasted effort on ineffective models.

@@ -1,0 +1,5 @@
+Activation functions introduce non-linearity into neural networks, allowing them to model complex relationships. Without activation functions, neural networks would behave like linear models regardless of depth.
+
+Popular activation functions include ReLU, sigmoid, and tanh. Each has distinct properties that affect gradient flow and training stability.
+
+The choice of activation function can significantly impact convergence speed and overall model performance.

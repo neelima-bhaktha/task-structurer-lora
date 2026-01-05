@@ -1,0 +1,1 @@
+Smaller language models are gaining attention because they are cheaper to train and deploy compared to large models. When fine-tuned for specific tasks, they can perform competitively while offering better efficiency and control. This makes them well-suited for specialised, real-world applications.

@@ -1,0 +1,1 @@
+Underfitting occurs when a model is too simple to capture data patterns. It results in poor performance on both training and test data.

@@ -1,0 +1,5 @@
+Regularisation techniques are used to prevent overfitting by discouraging overly complex models. They introduce additional constraints or penalties during training.
+
+Common regularisation methods include L1 and L2 regularisation, which penalise large parameter values. These methods encourage simpler models that generalise better.
+
+Regularisation improves robustness without significantly reducing performance on training data.

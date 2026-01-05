@@ -1,0 +1,5 @@
+The bias–variance tradeoff describes the balance between a model’s ability to fit training data and its ability to generalise to new data. High-bias models are too simple and fail to capture important patterns, leading to underfitting.
+
+High-variance models, on the other hand, are overly sensitive to training data and perform poorly on unseen examples. Increasing model complexity reduces bias but increases variance.
+
+Effective model design involves finding a balance where both bias and variance are minimised to achieve optimal performance.

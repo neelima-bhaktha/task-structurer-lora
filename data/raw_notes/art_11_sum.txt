@@ -1,0 +1,1 @@
+Batch, stochastic, and mini-batch gradient descent differ in how much data they use per update. Mini-batch gradient descent is most commonly used due to efficiency and stability.

@@ -1,0 +1,5 @@
+Large language models have dominated recent AI development, but they come with high computational and financial costs. Training and deploying these models often requires significant infrastructure, making them inaccessible for smaller teams or organisations.
+
+As a result, interest in smaller language models has grown. These models are easier to fine-tune, faster to deploy, and can perform competitively on narrow, well-defined tasks. Techniques like parameter-efficient fine-tuning further improve their practicality.
+
+Rather than replacing large models entirely, smaller models are increasingly used in specialised workflows where efficiency, control, and cost matter more than general intelligence.

@@ -1,0 +1,1 @@
+Overfitting happens when a model memorises training data instead of learning general patterns. It occurs due to high model complexity or limited data and leads to poor generalisation.

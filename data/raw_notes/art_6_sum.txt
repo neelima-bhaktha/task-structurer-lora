@@ -1,0 +1,1 @@
+Feature scaling ensures all input features contribute equally during training. Without scaling, gradient-based algorithms converge slowly or behave unstably.

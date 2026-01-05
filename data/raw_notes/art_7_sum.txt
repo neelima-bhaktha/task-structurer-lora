@@ -1,0 +1,1 @@
+Bias–variance tradeoff balances underfitting and overfitting. Increasing model complexity reduces bias but increases variance, so an optimal balance is required.

@@ -1,0 +1,5 @@
+Overfitting occurs when a machine learning model learns patterns that are too specific to the training data. Instead of capturing the underlying relationship between inputs and outputs, the model starts memorising noise and irregularities present in the dataset.
+
+This usually happens when a model is too complex relative to the amount of training data. Deep models with many parameters can fit training data extremely well, but fail to generalise to unseen examples.
+
+Techniques such as regularisation, early stopping, and cross-validation are commonly used to reduce overfitting and improve generalisation performance.

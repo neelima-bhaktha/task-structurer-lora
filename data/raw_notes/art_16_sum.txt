@@ -1,0 +1,1 @@
+An epoch is one full pass through the dataset, while batches divide data for training. Iterations represent parameter updates per batch.

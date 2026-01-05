@@ -1,0 +1,5 @@
+An epoch represents one complete pass through the training dataset. Batches divide the dataset into smaller subsets for efficient processing.
+
+An iteration refers to a single update of model parameters using one batch. The number of iterations per epoch depends on the batch size.
+
+Understanding these terms is important for controlling training duration and performance.

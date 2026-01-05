@@ -1,0 +1,1 @@
+Data quality plays a critical role in machine learning performance. Small, consistent datasets aligned with the task often outperform larger noisy ones. Improving data quality can be more effective than increasing model complexity.

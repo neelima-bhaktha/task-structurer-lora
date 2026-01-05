@@ -1,0 +1,1 @@
+A validation set is used for tuning hyperparameters without touching test data. It helps ensure unbiased evaluation of model performance.

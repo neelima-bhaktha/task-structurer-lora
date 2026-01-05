@@ -1,0 +1,1 @@
+Evaluation metrics define how model performance is measured. Choosing the right metric is essential, especially for imbalanced datasets.

@@ -1,0 +1,5 @@
+General-purpose AI systems aim to handle a wide range of tasks, but this flexibility can reduce reliability in specific use cases. Broad objectives often introduce ambiguity and unpredictable behaviour.
+
+Narrow AI systems are designed for a single task or domain, allowing tighter constraints and clearer evaluation criteria. This leads to more consistent and controllable outputs.
+
+For production systems, narrow AI often provides better reliability and easier maintenance than general-purpose solutions.

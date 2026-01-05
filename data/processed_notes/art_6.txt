@@ -1,0 +1,5 @@
+Feature scaling is a preprocessing step that ensures all input features contribute equally during model training. When features have very different ranges, gradient-based optimisation algorithms can struggle to converge efficiently.
+
+Algorithms such as gradient descent rely on smooth and consistent loss surfaces. Poorly scaled features distort this surface, leading to slow convergence or unstable updates.
+
+Common scaling techniques include standardisation and min-max normalisation, both of which help improve training stability and performance.

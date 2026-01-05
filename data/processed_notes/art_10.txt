@@ -1,0 +1,5 @@
+Gradient descent is an optimisation algorithm used to minimise a loss function by iteratively updating model parameters. At each step, the algorithm computes the gradient of the loss with respect to the parameters and moves in the opposite direction.
+
+The learning rate controls the size of each update. A very small learning rate leads to slow convergence, while a very large one can cause the algorithm to overshoot the minimum.
+
+Despite its simplicity, gradient descent forms the foundation of most modern machine learning training procedures.

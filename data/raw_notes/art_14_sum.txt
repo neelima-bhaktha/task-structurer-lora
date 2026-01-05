@@ -1,0 +1,1 @@
+Simpler models are easier to interpret and less prone to overfitting. They often perform comparably to complex models when data is limited.

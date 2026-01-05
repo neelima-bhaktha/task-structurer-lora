@@ -1,0 +1,5 @@
+Batch gradient descent updates model parameters using the entire training dataset at once. While this produces stable updates, it can be computationally expensive for large datasets.
+
+Stochastic gradient descent updates parameters using a single data point at a time, making it faster but noisier. Mini-batch gradient descent balances both approaches by using small subsets of data.
+
+In practice, mini-batch gradient descent is most commonly used due to its efficiency and stability.

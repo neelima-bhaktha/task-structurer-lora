@@ -1,0 +1,1 @@
+Narrow AI systems are more reliable because they operate under clear constraints and well-defined objectives. Focusing on a single task reduces ambiguity and improves consistency. This makes narrow AI more suitable for production use.

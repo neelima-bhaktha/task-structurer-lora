@@ -1,0 +1,5 @@
+Machine learning performance depends heavily on the quality of training data. Noisy, inconsistent, or poorly labelled data can limit a model’s effectiveness regardless of algorithm choice.
+
+High-quality datasets are typically small, consistent, and aligned with the intended task. Clear patterns and well-defined targets help models learn useful behaviour more reliably.
+
+In many cases, improving data quality leads to better results than increasing model complexity or training time.

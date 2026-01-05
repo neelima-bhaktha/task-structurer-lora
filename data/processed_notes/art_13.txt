@@ -1,0 +1,5 @@
+A validation set is used to tune hyperparameters and make model design decisions without touching the test data. It acts as an intermediate checkpoint during development.
+
+Using test data for tuning can lead to biased evaluation results. A separate validation set helps maintain the integrity of the final performance measurement.
+
+This separation ensures that the test set reflects true generalisation ability.

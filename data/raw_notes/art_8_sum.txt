@@ -1,0 +1,1 @@
+Loss functions measure how wrong a model’s predictions are. Choosing the correct loss function directly affects training behaviour and final performance.

@@ -1,0 +1,1 @@
+Regularisation prevents overfitting by penalising model complexity. Techniques like L1 and L2 encourage simpler, more generalisable models.

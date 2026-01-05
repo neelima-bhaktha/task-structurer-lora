@@ -1,0 +1,5 @@
+High training accuracy indicates that a model fits the training data well, but it does not guarantee good performance on unseen data. A model that performs well only on training data may fail when deployed in real-world scenarios.
+
+Generalisation refers to a model’s ability to apply learned patterns to new, unseen examples. This depends on factors such as data quality, model complexity, and regularisation techniques.
+
+Focusing on generalisation rather than training accuracy leads to more reliable and robust machine learning systems.

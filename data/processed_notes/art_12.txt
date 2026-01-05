@@ -1,0 +1,5 @@
+Data leakage occurs when information from outside the training dataset is unintentionally used during model training. This leads to overly optimistic performance estimates.
+
+Common sources of data leakage include improper train-test splits and preprocessing steps applied before data separation. Although the model appears to perform well, it fails in real-world scenarios.
+
+Preventing data leakage is essential for building reliable and trustworthy machine learning systems.

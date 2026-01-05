@@ -1,0 +1,1 @@
+Data leakage occurs when test information influences training. It leads to misleading performance and poor real-world reliability.

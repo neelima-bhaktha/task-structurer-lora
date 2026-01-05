@@ -1,0 +1,1 @@
+Gradient descent minimises loss by updating parameters in the direction opposite to the gradient. Learning rate controls convergence speed and stability.

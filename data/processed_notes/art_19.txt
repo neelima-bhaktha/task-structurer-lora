@@ -1,0 +1,5 @@
+A train-test split separates data used for learning from data used for evaluation. This helps estimate how well a model will perform on unseen data.
+
+Training and testing on the same data leads to misleading performance results. The split enforces a realistic evaluation setup.
+
+Proper data splitting is a foundational practice in machine learning experiments.

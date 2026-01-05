@@ -1,0 +1,5 @@
+Simpler models are easier to interpret, debug, and deploy. They often require fewer computational resources and less training data.
+
+In many cases, a simpler model can achieve performance comparable to a complex one, especially when data is limited. Complex models increase the risk of overfitting without guaranteed gains.
+
+Model selection should prioritise simplicity unless complexity provides clear benefits.

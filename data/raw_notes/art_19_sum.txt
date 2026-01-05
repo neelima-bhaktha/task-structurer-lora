@@ -1,0 +1,1 @@
+Train–test split separates learning from evaluation data. It ensures realistic assessment of model generalisation.

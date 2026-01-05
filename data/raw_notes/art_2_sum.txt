@@ -1,0 +1,1 @@
+Fine-tuning is preferred over training from scratch because it reduces computational cost while retaining a model’s existing language knowledge. It allows models to be adapted efficiently for specific tasks without large datasets. This makes it practical for most real-world applications.

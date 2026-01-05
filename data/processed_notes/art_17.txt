@@ -1,0 +1,5 @@
+Evaluation metrics define how model performance is measured. Different tasks require different metrics to capture what “good performance” means.
+
+Accuracy alone can be misleading, especially with imbalanced datasets. Metrics like precision, recall, and F1-score provide deeper insight.
+
+Choosing the right metric ensures that model optimisation aligns with real-world goals.
